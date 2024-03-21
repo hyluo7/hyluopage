@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of IC](https://ic.seu.edu.cn/), [Southeast University, China](https://www.seu.edu.cn/). My research interest includes Nanomaterial, Bioelectric material, Nanostructure fabrication and characterization and MEMS For interdisciplinary intersections with embedded system and integrate circuit.
+I'm a third year undergraduate student from [School of IC](https://ic.seu.edu.cn/), [Southeast University, China](https://www.seu.edu.cn/). My research interest includes Nanomaterial, Bioelectric material, Nanostructure fabrication and characterization and MEMS for interdisciplinary intersections with embedded system and integrate circuit.
+
 I am very fortunate to be advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/main.psp) from [School of IC](https://ic.seu.edu.cn/) of SEU-FEI Nano-Pico Center, Key Lab of MEMS of Ministry of Education from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was also advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/main.psp) from [School of IC](https://ic.seu.edu.cn/), Southeast University, China.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
