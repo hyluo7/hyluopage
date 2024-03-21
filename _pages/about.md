@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Hi, this is Haoyu Luo
 ======
 I'm Haoyu Luo, a third year undergraduate student from [School of IC](https://ic.seu.edu.cn/), [Southeast University, China](https://www.seu.edu.cn/). My research interest includes Nanomaterial, Bioelectric material, Nanostructure fabrication and characterization and MEMS for interdisciplinary intersections with embedded system and integrate circuit.
