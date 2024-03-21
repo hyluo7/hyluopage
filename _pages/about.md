@@ -7,7 +7,7 @@ I am very fortunate to be advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/
 
 You can find my Resume here: [Resume of Haoyu Luo](../assets/resumenew.pdf).
 
-Email:[hyluo1@outlook.com](hyluo1@outlook.com) or [hyluo@seu.edu.cn](hyluo@seu.edu.cn) / [Wechat](../images/wechatQR.jpg) 
+Email: [hyluo1@outlook.com](hyluo1@outlook.com) or [hyluo@seu.edu.cn](hyluo@seu.edu.cn) / [Wechat](../images/wechatQR.jpg) 
 
 Recently I am looking for a phd. position, if you are intrested in Haoyu, Please contact with me without hesitation, I really have strong enthusiasm in research!!!
 
