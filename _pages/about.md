@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://hyluo7.github.io/hyluopage/
 title: "Hi, this is Haoyu Luo"
 author_profile: true
 redirect_from: 
