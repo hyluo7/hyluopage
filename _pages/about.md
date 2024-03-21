@@ -6,13 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of IC](https://ic.seu.edu.cn/), [Southeast University, China](https://www.seu.edu.cn/). My research interest includes Nanomaterial, Bioelectric material, Nanostructure fabrication and characterization and MEMS for interdisciplinary intersections with embedded system and integrate circuit.
+Hi
+I'm Haoyu Luo, a third year undergraduate student from [School of IC](https://ic.seu.edu.cn/), [Southeast University, China](https://www.seu.edu.cn/). My research interest includes Nanomaterial, Bioelectric material, Nanostructure fabrication and characterization and MEMS for interdisciplinary intersections with embedded system and integrate circuit.
 
-I am very fortunate to be advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/main.psp) from [School of IC](https://ic.seu.edu.cn/) of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/), Key Lab of MEMS of Ministry of Education for [School of IC](https://ic.seu.edu.cn/), Peking University. I was also advised by [Prof. Yi](https://ic.seu.edu.cn/yizhenxiang/main.psp) from [School of IC](https://ic.seu.edu.cn/), Southeast University, China.
+I am very fortunate to be advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/main.psp) from [School of IC](https://ic.seu.edu.cn/) of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/), Key Lab of MEMS of Ministry of Education for [School of IC](https://ic.seu.edu.cn/), Southeasy University, China. I was also advised by [Prof. Yi](https://ic.seu.edu.cn/yizhenxiang/main.psp) from [School of IC](https://ic.seu.edu.cn/), Southeast University, China.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email:hyluo1@outlook.com(hyluo1@outlook.com) or [hyluo@seu.edu.cn](hyluo@seu.edu.cn) / [Wechat](../images/wechat.jpg) 
 
 
 A data-driven personal website
