@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Hong](https://ic.seu.edu.cn/honghua/
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email:[hyluo1@outlook.com](hyluo1@outlook.com) or [hyluo@seu.edu.cn](hyluo@seu.edu.cn) / [Wechat](../images/wechat.jpg) 
+Email:[hyluo1@outlook.com](hyluo1@outlook.com) or [hyluo@seu.edu.cn](hyluo@seu.edu.cn) / [Wechat](../images/wechatQR.jpg) 
 
 
 My journey of exploring to academic
