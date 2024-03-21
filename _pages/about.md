@@ -14,6 +14,7 @@ Recently I am looking for a phd. position, if you are intrested in Haoyu, Please
 My journey of exploring to academic
 ======
 One area of research that particularly intrigues me is bioelectronics. For instance, the current research project I am involved in, titled "Alignment of carbon nanotubes in biocompatible polymer under electric-field," originates from the treatment and rehabilitation of spinal cord injuries. I am deeply motivated to leverage my expertise in electronics to contribute to advancements in human and biological welfare. Also, the project "Preparation and Properties of Graphene–Reinforced Polylactic Acid Bioelectronic Nanocomposites with Tissue Regenerative Functions" offered me precious experience.
+
 Throughout my academic journey, I have acquired a strong foundation in Electronic Science and Technology, including courses such as analog electronic circuits, digital electronic circuits, signals and systems, basic solid-state physics, basic semiconductor physics, as well as mathematical courses such as mathematical physics methods, probability statistics, and random processes. Additionally, I have undertaken specialized courses like modern optics fundamentals, microcomputer principles, and electromagnetic field theory.
 
 
